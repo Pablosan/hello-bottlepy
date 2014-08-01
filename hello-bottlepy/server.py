@@ -15,7 +15,6 @@
 """HTTP (REST API) Server."""
 
 import logging
-import sys
 
 import bottle
 from configargparse import configargparse
