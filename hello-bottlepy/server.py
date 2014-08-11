@@ -17,7 +17,7 @@
 import logging
 
 import bottle
-from configargparse import configargparse
+import configargparse
 
 LOG = logging.getLogger(__name__)
 
